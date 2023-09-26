@@ -2,19 +2,18 @@
 
 ## Public
 
-| Method | URL          | Description   |
-| ------ | ------------ | ------------- |
-| GET    | /            | Home page     |
-| GET    | /connexion   | Login page    |
-| GET    | /inscription | Register page |
+| Method | URL          | Description |
+| ------ | ------------ | ----------- |
+| GET    | /            |             |
+| GET    | /connexion   |             |
+| GET    | /inscription |             |
 
-## Private
+## Privates
 
-| Method | URL                       | Description                      |
-| ------ | ------------------------- | -------------------------------- |
-| GET    | /deconnexion              | Logout                           |
-| GET    | /{name}                   | Dashboard home page              |
-| GET    | /{name}/compte            | Dashboard profil page            |
-| GET    | /{name}/revenu            | Dashboard revenue page           |
-| GET    | /{name}/depenses/fixe     | Dashboard fixed expenses page    |
-| GET    | /{name}/depenses/variable | Dashboard variable expenses page |
+| Method | URL                      | Description |
+| ------ | ------------------------ | ----------- |
+| GET    | /profil                  |             |
+| GET    | /profil/revenu           |             |
+| GET    | /profil/depense/fixe     |             |
+| GET    | /profil/depense/variable |             |
+| GET    | /profil/parametre        |             |
