@@ -14,7 +14,7 @@
 | Montant      | Montant de la dépense                            | Nombre a virgule | -           | Dépense     |
 | Fixe         | La valeur est vrai si c'est une dépense est fixe | Booléen          | Optionnel   | Dépense     |
 |              |                                                  |                  |             |             |
-| Nom          | Nom du type de revenu ou de dépense              | Texte            |             | Type        |
+| Nom          | Nom du type de revenu ou de la dépense           | Texte            |             | Type        |
 | Revenu       | La valeur est vrai si c'est un revenu            | Booléen          | Optionnel   | Type        |
 |              |                                                  |                  |             |             |
 | Jour         | Le jour d'un revenu ou d'un dépense              | Nombre           | Optionnel   | Calendrier  |
