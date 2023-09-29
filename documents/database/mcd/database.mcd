@@ -1,0 +1,5 @@
+UTILISATEUR: code UTILISATEUR, email, mot de passe, role, nom
+Fournir, 11 UTILISATEUR, 0N FINANCE
+FINANCE: code REVENU_DEPENSE, nom, montant, revenu, fixe, date
+Posséder, 01 TYPE, 01 FINANCE
+TYPE: code TYPE, nom, revenu
